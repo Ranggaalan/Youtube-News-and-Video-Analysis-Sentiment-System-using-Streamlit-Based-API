@@ -1,0 +1,2 @@
+# Youtube-News-and-Video-Analysis-Sentiment-System-using-Streamlit-Based-API
+SmartNews Analyzer is an AI-driven web tool built with Streamlit that empowers users to search, analyze, and extract insights from news articles and YouTube videos. Leveraging APIs from NewsAPI and Google Cloud Console (YouTube API), this system provides deep sentiment analysis, visualization, and summarization of news content.
